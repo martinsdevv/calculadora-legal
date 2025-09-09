@@ -3,7 +3,7 @@ import java.util.Scanner;
 public class Main {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
-        Somasubtracao calc = new Somasubtracao();
+        Calculadora calc = new Calculadora();
 
         System.out.println("=== Calculadora ===");
         System.out.print("Digite o primeiro número: ");
